@@ -9,7 +9,7 @@ const about = {
   name: 'Erin Tomorri',
   role: 'Software Engineer',
   description:
-    "Hi, my name is Erin, I'm currently a Computer Engineer at TMU. I am very passionate about Machine Learning and Full-Stack Development. I like working on apps and websites on my free time and I am  always open to new opportunities.",
+    "Hi, my name is Erin, I'm currently studying Computer Engineering at TMU. I am very passionate about Machine Learning and Full-Stack Development. I like working on apps and websites in my free time and I am always open to new opportunities!",
   resume: 'https://drive.google.com/file/d/1hvtY7bvRzYfSvVPKTrs1o_bjCm1RsdE1/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/erin-tomorri/?originalSubdomain=ca',
@@ -37,9 +37,9 @@ const projects = [
     livePreview: 'https://maple-fbla-cnlc.netlify.app/',
   },
   {
-    name: 'Vehicle Detechtion And Speed Measurement System',
+    name: 'Vehicle Detection And Speed Measurement System',
     description:
-      'Contributed on a joint hackathon project where we created a vehicle detechtion and speed measurement system using computer vision',
+      'Contributed on a joint hackathon project where we created a vehicle detection and speed measurement system using computer vision',
     stack: ['Python'],
     sourceCode: 'https://github.com/vincetrain/yrhacks-car-camera',
   },
