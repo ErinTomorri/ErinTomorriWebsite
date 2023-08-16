@@ -10,7 +10,7 @@ const about = {
   role: 'Software Engineer',
   description:
     "Hi, my name is Erin, I'm currently studying Computer Engineering at TMU. I am very passionate about Machine Learning and Full-Stack Development. I like working on apps and websites in my free time and I am always open to new opportunities!",
-  resume: 'https://drive.google.com/file/d/1hvtY7bvRzYfSvVPKTrs1o_bjCm1RsdE1/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1IGK-SgxRf55H9ZoNZ6Flj08rnbgaCKX2/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/erin-tomorri/?originalSubdomain=ca',
     github: 'https://github.com/erintomorri',
